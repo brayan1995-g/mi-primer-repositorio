@@ -1,0 +1,15 @@
+
+.container {
+
+    display: grid;
+    grid-template-columns: 40% 1fr 40%;
+    margin: 50px;
+    border: 30px;
+}
+.img-container {
+
+width: 100%;
+border: 10px;
+margin: 40px;
+
+}
